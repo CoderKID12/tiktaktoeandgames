@@ -1,0 +1,1 @@
+The Tik Tak Toe game is not fully completed, only X can win for some reason, and not sure if diagonal can win.
